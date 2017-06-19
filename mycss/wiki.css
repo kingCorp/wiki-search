@@ -1,0 +1,15 @@
+.searchlabel{
+    padding-top: 150px;
+    margin: center;
+}
+body{
+    background-color:darkslateblue;
+    color: wheat;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: 70px;
+}
+footer{
+    margin: center;
+}
